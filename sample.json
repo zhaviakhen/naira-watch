@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-10-25",
+    "base": "NGN",
+    "quote": "AED",
+    "rate": 0.0027381
+  },
+  {
+    "date": "2026-10-25",
+    "base": "NGN",
+    "quote": "AFN",
+    "rate": 0.048469
+  },
+  {
+    "date": "2026-10-25",
+    "base": "NGN",
+    "quote": "ALL",
+    "rate": 0.060332
+  },
+  {
+    "date": "2026-10-25",
+    "base": "NGN",
+    "quote": "AMD",
+    "rate": 0.26919
+  },
+  {
+    "date": "2026-10-23",
+    "base": "NGN",
+    "quote": "ANG",
+    "rate": 0.0013345
+  },
+  {
+    "date": "2026-10-25",
+    "base": "USD",
+    "quote": "NGN",
+    "rate": 1341.27
+  }
+]
